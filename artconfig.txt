@@ -734,8 +734,8 @@ AddCharModel(3, 20127, "maffa.dff", "maffa.txd");
 AddCharModel(192, 20128, "mecgrlbl.dff", "mecgrlbl.txd");
 AddCharModel(3, 20129, "wmybunoun.dff", "wmybunoun.txd");
 
-AddCharModel(71, 20150, "securpol.dff", "securpol.txd");
-AddCharModel(71, 20151, "securpol2.dff", "securpol2.txd");
+AddCharModel(19, 20150, "fam21.dff", "fam21.txd");
+AddCharModel(19, 20151, "bmybe.dff", "bmybe.txd");
 AddCharModel(71, 20152, "securpol3.dff", "securpol3.txd");
 AddCharModel(71, 20153, "securpol_4.dff", "securpol_4.txd");
 AddCharModel(71, 20154, "securpol_5.dff", "securpol_5.txd");
@@ -745,7 +745,5 @@ AddCharModel(233, 20157, "sec_f2.dff", "sec_f2.txd");
 AddCharModel(233, 20158, "sec_f3.dff", "sec_f3.txd");
 AddCharModel(233, 20453, "scythe.dff", "scythe.txd");
 AddCharModel(233, 20653, "bmycr.dff", "bmycr.txd");
-AddCharModel(19, 20794, "fam21.dff", "fam21.txd");
-AddCharModel(19, 20894, "bmybe.dff", "bmybe.txd");
 
 
