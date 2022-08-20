@@ -736,8 +736,8 @@ AddCharModel(3, 20129, "wmybunoun.dff", "wmybunoun.txd");
 
 AddCharModel(19, 20150, "fam21.dff", "fam21.txd");
 AddCharModel(19, 20151, "bmybe.dff", "bmybe.txd");
-AddCharModel(71, 20152, "securpol3.dff", "securpol3.txd");
-AddCharModel(71, 20153, "securpol_4.dff", "securpol_4.txd");
+AddCharModel(71, 20152, "rel.dff", "rel.txd");
+AddCharModel(71, 20153, "lsv1.dff", "lsv1.txd");
 AddCharModel(71, 20154, "securpol_5.dff", "securpol_5.txd");
 AddCharModel(71, 20155, "securpol_6.dff", "securpol_6.txd");
 AddCharModel(233, 20156, "sec_f1.dff", "sec_f1.txd");
