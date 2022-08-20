@@ -745,7 +745,7 @@ AddCharModel(233, 20157, "sec_f2.dff", "sec_f2.txd");
 AddCharModel(233, 20158, "sec_f3.dff", "sec_f3.txd");
 AddCharModel(233, 20453, "scythe.dff", "scythe.txd");
 AddCharModel(233, 20653, "bmycr.dff", "bmycr.txd");
-AddCharModel(233, 20794, "fam21.dff", "fam21.txd");
-AddCharModel(233, 20894, "bmybe.dff", "bmybe.txd");
+AddCharModel(19, 20794, "fam21.dff", "fam21.txd");
+AddCharModel(19, 20894, "bmybe.dff", "bmybe.txd");
 
 
