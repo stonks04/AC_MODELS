@@ -740,6 +740,7 @@ AddCharModel(71, 20152, "rel.dff", "rel.txd");
 AddCharModel(71, 20153, "lsv1.dff", "lsv1.txd");
 AddCharModel(71, 20154, "req.dff", "req.txd");
 AddCharModel(71, 20155, "male01.dff", "male01.txd");
+AddCharModel(19, 20156, "bds.dff", "bds.txd");
 AddCharModel(233, 20157, "sec_f2.dff", "sec_f2.txd");
 AddCharModel(233, 20158, "sec_f3.dff", "sec_f3.txd");
 AddCharModel(233, 20453, "scythe.dff", "scythe.txd");
