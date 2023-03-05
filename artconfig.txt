@@ -742,5 +742,5 @@ AddCharModel(71, 20154, "ladno.dff", "ladno.txd");
 AddCharModel(71, 20155, "cartel.dff", "cartel.txd");
 AddCharModel(233, 20156, "elangrel.dff", "elangrel.txd");
 AddCharModel(233, 20157, "fernand.dff", "fernand.txd");
-AddCharModel(233, 20158, "sliv.dff", "sliv.txd");
+AddCharModel(233, 20158, "zencibape.dff", "zencibape.txd");
 
