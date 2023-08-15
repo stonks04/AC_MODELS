@@ -721,11 +721,11 @@ AddCharModel(280, 20048, "pdmary.dff", "pdmary.txd");
 
 
 AddCharModel(3, 20117, "dobriak.dff", "dobriak.txd");
-AddCharModel(3, 20118, "sbwmyri.dff", "sbwmyri.txd");
-AddCharModel(3, 20119, "gangster.dff", "gangster.txd");
-AddCharModel(3, 20120, "wmydrug.dff", "wmydrug.txd");
-AddCharModel(3, 20121, "blackmaccer.dff", "blackmaccer.txd");
-AddCharModel(3, 20122, "blondecasual1.dff", "blondecasual1.txd");
+AddCharModel(3, 20118, "hyfri.dff", "hyfri.txd");
+AddCharModel(3, 20119, "hmydrug.dff", "hmydru.txd");
+AddCharModel(3, 20120, "lsv1.dff", "lsv1.txd");
+AddCharModel(3, 20121, "lsv2.dff", "lsv2.txd");
+AddCharModel(3, 20122, "lsv3.dff", "lsv3.txd");
 AddCharModel(3, 20123, "bradi.dff", "bradi.txd");
 AddCharModel(3, 20124, "busman1.dff", "busman1.txd");
 AddCharModel(3, 20125, "hmyrired.dff", "hmyrired.txd");
