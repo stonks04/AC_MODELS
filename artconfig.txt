@@ -720,7 +720,7 @@ AddCharModel(280, 20047, "mnspd2.dff", "mnspd2.txd");
 AddCharModel(280, 20048, "pdmary.dff", "pdmary.txd");
 
 
-AddCharModel(3, 20117, "blackmiri.dff", "blackmiri.txd");
+AddCharModel(3, 20117, "dobriak.dff", "dobriak.txd");
 AddCharModel(3, 20118, "sbwmyri.dff", "sbwmyri.txd");
 AddCharModel(3, 20119, "gangster.dff", "gangster.txd");
 AddCharModel(3, 20120, "wmydrug.dff", "wmydrug.txd");
