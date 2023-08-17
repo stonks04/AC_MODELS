@@ -721,7 +721,7 @@ AddCharModel(280, 20048, "pdmary.dff", "pdmary.txd");
 
 
 AddCharModel(3, 20117, "dobriak.dff", "dobriak.txd");
-AddCharModel(3, 20118, "hyfri.dff", "hyfri.txd");
+AddCharModel(3, 20118, "bfyst.dff", "bfyst.txd");
 AddCharModel(3, 20119, "hmydrug.dff", "hmydru.txd");
 AddCharModel(3, 20120, "lsv1.dff", "lsv1.txd");
 AddCharModel(3, 20121, "lsv2.dff", "lsv2.txd");
